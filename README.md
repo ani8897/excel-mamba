@@ -17,6 +17,6 @@ Excel Mamba is an Apps Script extension that empowers you to automate repetitive
 
 ## Team Members
 
-This POC was developed in collaboration with my teammates [Bhavya Bahl](https://github.com/bhavya01) and [Rohit Jena](https://github.com/rohitrango) at AGI House Jamba hackathon sponsored by AI21 Labs.
+This POC was developed in collaboration with my teammates [Bhavya Bahl](https://github.com/bhavya01),  [Rohit Jena](https://github.com/rohitrango) and advisor [Bharat Khandelwal](https://github.com/khandelwalbharat) at AGI House Jamba hackathon sponsored by AI21 Labs.
 
 <img src="https://github.com/apache/incubator-devlake/assets/2908155/850899ca-9640-4b15-9802-13d30938db41" width=500> </img>
